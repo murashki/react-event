@@ -38,5 +38,5 @@ enhanceWithEvent(
 
 | Parameter | Description | Example | Default Value |
 |:-:|:-:|:-:|:-:|
-| events | Event type(s) to listen for. | `'mousedown', ['mousedown', 'touchstart']` | Nil |
+| events | Event type(s) to listen for. | `'mousedown', ['mousedown', 'touchstart']` | Null |
 | options | Where event will be accepted. | `{ outside: true }, { inside: true }` | {} |
